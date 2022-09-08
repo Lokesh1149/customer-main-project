@@ -25,7 +25,7 @@ from PIL import Image
 
 
 
-model = joblib.load('model.pkl')
+model = joblib.load('customer.pkl')
 
 
 def web_app():
